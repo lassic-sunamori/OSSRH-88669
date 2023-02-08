@@ -1,0 +1,2 @@
+# thetasdk
+theta-sdk-android
